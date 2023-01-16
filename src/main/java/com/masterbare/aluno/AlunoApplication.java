@@ -1,13 +1,13 @@
-package com.masterbare.primeiroexemplo;
+package com.masterbare.aluno;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PrimeiroExemploApplication {
+public class AlunoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PrimeiroExemploApplication.class, args);
+		SpringApplication.run(AlunoApplication.class, args);
 	}
 
 }
